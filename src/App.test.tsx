@@ -34,8 +34,8 @@ describe("portfolio experience", () => {
       screen.getByRole("link", { name: "Download resume PDF" }),
     ).toHaveClass("nav-resume")
     for (const link of resumeLinks) {
-      expect(link).toHaveAttribute("href", "/Yogesh-Kumar-Singh-Resume.pdf")
-      expect(link).toHaveAttribute("download", "Yogesh-Kumar-Singh-Resume.pdf")
+      expect(link).toHaveAttribute("href", "/Resume.pdf")
+      expect(link).toHaveAttribute("download", "Resume.pdf")
     }
 
     expect(
