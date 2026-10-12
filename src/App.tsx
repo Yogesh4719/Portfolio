@@ -34,6 +34,9 @@ import BitePizzaDetail from "./bitebuzz/BitePizzaDetail"
 import BiteCart from "./bitebuzz/BiteCart"
 import BiteSuccess from "./bitebuzz/BiteSuccess"
 
+const RESUME_PATH = "/Yogesh-Kumar-Singh-Resume.pdf"
+const RESUME_DOWNLOAD_NAME = "Yogesh-Kumar-Singh-Resume.pdf"
+
 type LinkProps = {
   href: string
   children: ReactNode
@@ -3479,8 +3482,8 @@ function Header({
           Let's talk <Arrow />
         </Link>
         <Link
-          href="/Yogesh-Kumar-Singh-Resume.pdf"
-          download="Yogesh-Kumar-Singh-Resume.pdf"
+          href={RESUME_PATH}
+          download={RESUME_DOWNLOAD_NAME}
           className="nav-resume"
           label="Download resume PDF"
           onClick={close}
@@ -4215,8 +4218,8 @@ function App() {
                 +91-6360246106
               </Link>
               <Link
-                href="/Yogesh-Kumar-Singh-Resume.pdf"
-                download="Yogesh-Kumar-Singh-Resume.pdf"
+                href={RESUME_PATH}
+                download={RESUME_DOWNLOAD_NAME}
                 className="button button-outline"
                 label="Download Yogesh Kumar Singh's resume"
               >
