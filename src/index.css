@@ -533,7 +533,7 @@ button { font: inherit; }
 .custom-cursor::after { content: attr(data-label); font-size: .46rem; font-weight: 700; letter-spacing: .08em; white-space: nowrap; opacity: 0; transition: opacity .15s; }
 .custom-cursor.cursor-active::after { opacity: 1; }
 @keyframes cursor-orbit { to { transform: rotate(360deg); } }
-@media (pointer: fine) { body, a, button, [data-cursor] { cursor: none; } }
+@media (pointer: fine) and (min-width: 601px) { body, a, button, [data-cursor] { cursor: none; } }
 
 .hero-copy { transform: translateY(calc(var(--hero-scroll, 0) * 2.5rem)); opacity: calc(1 - var(--hero-scroll, 0) * .42); transition: opacity .08s linear; }
 .hero-visual { --mouse-x: 0; --mouse-y: 0; transform: translateY(calc(var(--hero-scroll, 0) * 4rem)) scale(calc(1 - var(--hero-scroll, 0) * .06)); opacity: calc(1 - var(--hero-scroll, 0) * .25); transition: opacity .08s linear; }
@@ -2126,7 +2126,8 @@ html[data-theme="dark"] .cursor-trail {
   background: #ffad8c;
 }
 
-@media (pointer: coarse) {
+@media (pointer: coarse), (max-width: 600px) {
+  .custom-cursor,
   .cursor-trail {
     display: none;
   }
