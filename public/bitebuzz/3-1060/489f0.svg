@@ -1,0 +1,18 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="42" height="43" viewBox="0 0 42 43" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Shift">
+<g id="Key" filter="url(#filter0_d_0_234)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 8C0 5.19974 0 3.79961 0.544967 2.73005C1.02433 1.78924 1.78924 1.02433 2.73005 0.544967C3.79961 0 5.19974 0 8 0H34C36.8003 0 38.2004 0 39.27 0.544967C40.2108 1.02433 40.9757 1.78924 41.455 2.73005C42 3.79961 42 5.19974 42 8V34C42 36.8003 42 38.2004 41.455 39.27C40.9757 40.2108 40.2108 40.9757 39.27 41.455C38.2004 42 36.8003 42 34 42H8C5.19974 42 3.79961 42 2.73005 41.455C1.78924 40.9757 1.02433 40.2108 0.544967 39.27C0 38.2004 0 36.8003 0 34V8Z" fill="white"/>
+</g>
+<path id="Shift_2" fill-rule="evenodd" clip-rule="evenodd" d="M21.7071 13.2071C21.3166 12.8166 20.6834 12.8166 20.2929 13.2071L13.9142 19.5858C12.6543 20.8457 13.5466 23 15.3284 23H16.5V28C16.5 28.5523 16.9477 29 17.5 29H24.5C25.0523 29 25.5 28.5523 25.5 28V23H26.6716C28.4534 23 29.3457 20.8457 28.0858 19.5858L21.7071 13.2071Z" fill="#030303"/>
+</g>
+<defs>
+<filter id="filter0_d_0_234" x="0" y="0" width="42" height="43" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_234"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_234" result="shape"/>
+</filter>
+</defs>
+</svg>

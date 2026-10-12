@@ -1,0 +1,26 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="ChartDot">
+<g id="Ellipse 986" filter="url(#filter0_d_0_3794)">
+<circle cx="11.5" cy="9.5" r="7.5" fill="black"/>
+<circle cx="11.5" cy="9.5" r="7.5" fill="url(#paint0_linear_0_3794)"/>
+<circle cx="11.5" cy="9.5" r="6.5" stroke="white" stroke-width="2"/>
+</g>
+<circle id="Ellipse 987" cx="11.5" cy="9.5" r="2.8125" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_d_0_3794" x="0" y="0" width="23" height="23" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_3794"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_3794" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_0_3794" x1="14.5" y1="2" x2="8.5" y2="17" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.05"/>
+<stop offset="1" stop-color="white" stop-opacity="0.4"/>
+</linearGradient>
+</defs>
+</svg>

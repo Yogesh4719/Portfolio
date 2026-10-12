@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="560" height="240" viewBox="0 0 560 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Line B">
+<mask id="mask0_0_4157" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="560" height="240">
+<rect id="Rectangle" width="560" height="240" fill="black"/>
+</mask>
+<g mask="url(#mask0_0_4157)">
+<path id="Line 2" d="M0 181L35.1785 137.417C39.1753 132.465 45.2901 129.711 51.6471 129.999L88.7989 131.683L131.111 135.386C136.192 135.83 141.25 134.318 145.252 131.157L198.781 88.875C203.791 84.9177 211.176 86.6047 213.97 92.3448L245.854 157.831C248.933 164.156 255.109 168.398 262.117 169.002L305.677 172.759C312.874 173.38 319.846 170.072 323.917 164.105L346.347 131.228C351.588 123.546 361.433 120.49 370.103 123.854L393.4 132.894C404.722 137.286 417.313 130.659 420.101 118.839L430.339 75.433C432.32 67.0352 439.462 60.8544 448.058 60.1007L493.456 56.1198C495.999 55.8968 498.475 55.1891 500.752 54.035L560 24" stroke="#AEC7ED" stroke-linecap="round" stroke-dasharray="2 4"/>
+</g>
+</g>
+</svg>

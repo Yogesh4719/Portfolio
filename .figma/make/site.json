@@ -1,0 +1,11 @@
+{
+  "title": "YogeshKumarSingh",
+  "description": "Showcase your design expertise with a polished, interactive portfolio that highlights your UI/UX and product design projects, attracting recruiters and clients.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
