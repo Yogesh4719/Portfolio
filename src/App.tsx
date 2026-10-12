@@ -34,8 +34,8 @@ import BitePizzaDetail from "./bitebuzz/BitePizzaDetail"
 import BiteCart from "./bitebuzz/BiteCart"
 import BiteSuccess from "./bitebuzz/BiteSuccess"
 
-const RESUME_PATH = "/Yogesh-Kumar-Singh-Resume.pdf"
-const RESUME_DOWNLOAD_NAME = "Yogesh-Kumar-Singh-Resume.pdf"
+const RESUME_PATH = "/Resume.pdf"
+const RESUME_DOWNLOAD_NAME = "Resume.pdf"
 
 type LinkProps = {
   href: string
