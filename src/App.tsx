@@ -3930,7 +3930,11 @@ function ThemeToggle({
 }
 
 function App() {
-  const [selectedProject, setSelectedProject] = useState<Project | null>(null)
+  const defaultProject =
+    projects.find((project) => project.visual === "bitebuzz") ?? projects[0]
+  const [selectedProject, setSelectedProject] = useState<Project | null>(
+    defaultProject,
+  )
   const [dark, setDark] = useState(() => {
     const savedTheme = window.localStorage.getItem("portfolio-theme")
     return savedTheme
