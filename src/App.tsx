@@ -2814,8 +2814,7 @@ function BiteBuzzCaseStudy({
                 <b>UI/UX Designer</b>
               </div>
               <div>
-                <span>Duration</span>
-                <b>[Add project duration]</b>
+                <b>3 weeks</b>
               </div>
               <div>
                 <span>Tools</span>
