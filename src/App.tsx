@@ -2814,10 +2814,6 @@ function BiteBuzzCaseStudy({
                 <b>UI/UX Designer</b>
               </div>
               <div>
-                <span>Duration</span>
-                <b>3 weeks</b>
-              </div>
-              <div>
                 <span>Tools</span>
                 <b>Figma · Prototyping</b>
               </div>
